@@ -15,6 +15,10 @@
   height: 50px;
 }
 
+.logo {
+  font-size: 30px;
+}
+
 /* User Avatar */
 .navbar-wagon .avatar {
   height: 35px;
@@ -74,4 +78,9 @@
   transform: rotate(45deg);
   border-left: 1px solid #E6E6E6;
   border-top: 1px solid #E6E6E6;
+}
+
+a i {
+  text-decoration: none;
+  color: black;
 }
